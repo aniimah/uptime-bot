@@ -23,18 +23,18 @@
     "icon": "https://favicons.githubusercontent.com/aborfrahonline.com",
     "slug": "aborfrah-online",
     "status": "down",
-    "uptime": "70.16%",
-    "uptimeDay": "70.16%",
-    "uptimeWeek": "70.16%",
-    "uptimeMonth": "70.16%",
-    "uptimeYear": "70.16%",
+    "uptime": "51.79%",
+    "uptimeDay": "51.79%",
+    "uptimeWeek": "51.79%",
+    "uptimeMonth": "51.79%",
+    "uptimeYear": "51.79%",
     "time": 187,
     "timeDay": 187,
     "timeWeek": 187,
     "timeMonth": 187,
     "timeYear": 187,
     "dailyMinutesDown": {
-      "2021-01-28": 130
+      "2021-01-28": 285
     }
   },
   {
@@ -43,18 +43,18 @@
     "icon": "https://favicons.githubusercontent.com/accraartscenter.com",
     "slug": "accra-art-center",
     "status": "down",
-    "uptime": "70.24%",
-    "uptimeDay": "70.24%",
-    "uptimeWeek": "70.24%",
-    "uptimeMonth": "70.24%",
-    "uptimeYear": "70.24%",
+    "uptime": "51.84%",
+    "uptimeDay": "51.84%",
+    "uptimeWeek": "51.84%",
+    "uptimeMonth": "51.84%",
+    "uptimeYear": "51.84%",
     "time": 312,
     "timeDay": 312,
     "timeWeek": 312,
     "timeMonth": 312,
     "timeYear": 312,
     "dailyMinutesDown": {
-      "2021-01-28": 130
+      "2021-01-28": 285
     }
   },
   {
@@ -92,7 +92,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-01-28": 436
+      "2021-01-28": 591
     }
   },
   {
@@ -154,18 +154,20 @@
     "url": "http://tigereyefoundation.org/",
     "icon": "https://favicons.githubusercontent.com/tigereyefoundation.org",
     "slug": "tiger-eye-foundation",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.92%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.92%",
     "time": 4667,
     "timeDay": 4667,
     "timeWeek": 4667,
     "timeMonth": 4667,
     "timeYear": 4667,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-01-28": 0
+    }
   },
   {
     "name": "TigerEyePi",
