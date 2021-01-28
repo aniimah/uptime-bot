@@ -22,19 +22,19 @@
     "url": "http://aborfrahonline.com/",
     "icon": "https://favicons.githubusercontent.com/aborfrahonline.com",
     "slug": "aborfrah-online",
-    "status": "up",
-    "uptime": "41.20%",
-    "uptimeDay": "41.20%",
-    "uptimeWeek": "41.20%",
-    "uptimeMonth": "41.20%",
-    "uptimeYear": "41.20%",
+    "status": "down",
+    "uptime": "70.16%",
+    "uptimeDay": "70.16%",
+    "uptimeWeek": "70.16%",
+    "uptimeMonth": "70.16%",
+    "uptimeYear": "70.16%",
     "time": 187,
     "timeDay": 187,
     "timeWeek": 187,
     "timeMonth": 187,
     "timeYear": 187,
     "dailyMinutesDown": {
-      "2021-01-28": 128
+      "2021-01-28": 130
     }
   },
   {
@@ -42,19 +42,19 @@
     "url": "http://accraartscenter.com/",
     "icon": "https://favicons.githubusercontent.com/accraartscenter.com",
     "slug": "accra-art-center",
-    "status": "up",
-    "uptime": "41.25%",
-    "uptimeDay": "41.25%",
-    "uptimeWeek": "41.25%",
-    "uptimeMonth": "41.25%",
-    "uptimeYear": "41.25%",
+    "status": "down",
+    "uptime": "70.24%",
+    "uptimeDay": "70.24%",
+    "uptimeWeek": "70.24%",
+    "uptimeMonth": "70.24%",
+    "uptimeYear": "70.24%",
     "time": 312,
     "timeDay": 312,
     "timeWeek": 312,
     "timeMonth": 312,
     "timeYear": 312,
     "dailyMinutesDown": {
-      "2021-01-28": 128
+      "2021-01-28": 130
     }
   },
   {
@@ -92,7 +92,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-01-28": 218
+      "2021-01-28": 436
     }
   },
   {
