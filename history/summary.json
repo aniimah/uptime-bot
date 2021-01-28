@@ -22,36 +22,40 @@
     "url": "http://aborfrahonline.com/",
     "icon": "https://favicons.githubusercontent.com/aborfrahonline.com",
     "slug": "aborfrah-online",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "97.84%",
+    "uptimeDay": "97.84%",
+    "uptimeWeek": "97.84%",
+    "uptimeMonth": "97.84%",
+    "uptimeYear": "97.84%",
     "time": 130,
     "timeDay": 130,
     "timeWeek": 130,
     "timeMonth": 130,
     "timeYear": 130,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-01-28": 2
+    }
   },
   {
     "name": "Accra Art Center",
     "url": "http://accraartscenter.com/",
     "icon": "https://favicons.githubusercontent.com/accraartscenter.com",
     "slug": "accra-art-center",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "98.07%",
+    "uptimeDay": "98.07%",
+    "uptimeWeek": "98.07%",
+    "uptimeMonth": "98.07%",
+    "uptimeYear": "98.07%",
     "time": 320,
     "timeDay": 320,
     "timeWeek": 320,
     "timeMonth": 320,
     "timeYear": 320,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-01-28": 2
+    }
   },
   {
     "name": "Selase Kove-Seyram",
@@ -88,7 +92,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-01-28": 49
+      "2021-01-28": 91
     }
   },
   {
