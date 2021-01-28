@@ -37,7 +37,8 @@ status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
   
   # Uncomment the following line if you don't have a custom domain and add your repo name
-  baseUrl: /uptime-bot
+  # baseurl: /uptime-bot
+  apiBaseUrl: https://api.github.com
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Bee and Bloom Digital Montoring Bot
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
