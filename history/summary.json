@@ -23,18 +23,18 @@
     "icon": "https://favicons.githubusercontent.com/aborfrahonline.com",
     "slug": "aborfrah-online",
     "status": "down",
-    "uptime": "41.67%",
-    "uptimeDay": "41.67%",
-    "uptimeWeek": "41.67%",
-    "uptimeMonth": "41.67%",
-    "uptimeYear": "41.67%",
+    "uptime": "41.31%",
+    "uptimeDay": "41.31%",
+    "uptimeWeek": "41.31%",
+    "uptimeMonth": "41.31%",
+    "uptimeYear": "41.31%",
     "time": 411,
     "timeDay": 411,
     "timeWeek": 411,
     "timeMonth": 411,
     "timeYear": 411,
     "dailyMinutesDown": {
-      "2021-01-28": 757
+      "2021-01-28": 768
     }
   },
   {
@@ -43,18 +43,18 @@
     "icon": "https://favicons.githubusercontent.com/accraartscenter.com",
     "slug": "accra-art-center",
     "status": "down",
-    "uptime": "41.73%",
-    "uptimeDay": "41.73%",
-    "uptimeWeek": "41.73%",
-    "uptimeMonth": "41.73%",
-    "uptimeYear": "41.73%",
+    "uptime": "41.36%",
+    "uptimeDay": "41.36%",
+    "uptimeWeek": "41.36%",
+    "uptimeMonth": "41.36%",
+    "uptimeYear": "41.36%",
     "time": 361,
     "timeDay": 361,
     "timeWeek": 361,
     "timeMonth": 361,
     "timeYear": 361,
     "dailyMinutesDown": {
-      "2021-01-28": 756
+      "2021-01-28": 768
     }
   },
   {
@@ -92,7 +92,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-01-28": 1300
+      "2021-01-28": 1311
     }
   },
   {
@@ -155,11 +155,11 @@
     "icon": "https://favicons.githubusercontent.com/tigereyefoundation.org",
     "slug": "tiger-eye-foundation",
     "status": "up",
-    "uptime": "97.30%",
-    "uptimeDay": "97.30%",
-    "uptimeWeek": "97.30%",
-    "uptimeMonth": "97.30%",
-    "uptimeYear": "97.30%",
+    "uptime": "97.33%",
+    "uptimeDay": "97.33%",
+    "uptimeWeek": "97.33%",
+    "uptimeMonth": "97.33%",
+    "uptimeYear": "97.33%",
     "time": 10240,
     "timeDay": 10240,
     "timeWeek": 10240,
@@ -228,17 +228,17 @@
     "url": "http://mysarsstory.org/",
     "icon": "https://favicons.githubusercontent.com/mysarsstory.org",
     "slug": "my-sars-story",
-    "status": "up",
-    "uptime": "0.11%",
-    "uptimeDay": "0.11%",
-    "uptimeWeek": "0.11%",
-    "uptimeMonth": "0.11%",
-    "uptimeYear": "0.11%",
-    "time": 380,
-    "timeDay": 380,
-    "timeWeek": 380,
-    "timeMonth": 380,
-    "timeYear": 380,
+    "status": "down",
+    "uptime": "4.43%",
+    "uptimeDay": "4.43%",
+    "uptimeWeek": "4.43%",
+    "uptimeMonth": "4.43%",
+    "uptimeYear": "4.43%",
+    "time": 673,
+    "timeDay": 673,
+    "timeWeek": 673,
+    "timeMonth": 673,
+    "timeYear": 673,
     "dailyMinutesDown": {
       "2021-01-28": 251
     }
