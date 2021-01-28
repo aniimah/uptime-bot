@@ -4,21 +4,32 @@ repo: uptime-bot # Your GitHub repository name
 
 # Add your sites here
 sites:
-  - name: Google
-    url: https://www.google.com
+  
   - name: Bee and Bloom Digital
     url: https://beeandbloom.digital/
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Broken Site
-    url: https://thissitedoesnotexist.com
-  - name: Test for HEAD
-    method: HEAD
-    url: https://www.google.com
-  - name: Secret Site
-    url: $SECRET_SITE
+  - name: Aborfrah Online
+    url: http://aborfrahonline.com/
+  - name: Accra Art Center
+    url: http://accraartscenter.com/
+  - name: Selase Kove-Seyram
+    url: https://selasekove.com/
+  - name: Insignisncouth
+    url: http://insignisncouth.com/
+  - name: Heros Animated
+    url: http://heroesanimated.com/cgi-sys/suspendedpage.cgi
+  - name: Nii Arday Clegg & Co.
+    url: http://naclegg.com/
+  - name: NAFCO
+    url: https://nafco.gov.gh/
+  - name: Tiger Eye Foundation
+    url: http://tigereyefoundation.org/
+  - name: TigerEyePi
+    url: https://www.hugedomains.com/domain_profile.cfm?d=tigereyepi&e=com
+  - name: Anas Aremeyaw Anas
+    url: https://www.hugedomains.com/domain_profile.cfm?d=tigereyepi&e=com
+  - name: Cromwell Gray LLP
+    url: http://cromwellgray.org/
+  
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
