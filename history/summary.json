@@ -22,19 +22,19 @@
     "url": "http://aborfrahonline.com/",
     "icon": "https://favicons.githubusercontent.com/aborfrahonline.com",
     "slug": "aborfrah-online",
-    "status": "down",
-    "uptime": "51.79%",
-    "uptimeDay": "51.79%",
-    "uptimeWeek": "51.79%",
-    "uptimeMonth": "51.79%",
-    "uptimeYear": "51.79%",
-    "time": 187,
-    "timeDay": 187,
-    "timeWeek": 187,
-    "timeMonth": 187,
-    "timeYear": 187,
+    "status": "up",
+    "uptime": "49.11%",
+    "uptimeDay": "49.11%",
+    "uptimeWeek": "49.11%",
+    "uptimeMonth": "49.11%",
+    "uptimeYear": "49.11%",
+    "time": 686,
+    "timeDay": 686,
+    "timeWeek": 686,
+    "timeMonth": 686,
+    "timeYear": 686,
     "dailyMinutesDown": {
-      "2021-01-28": 285
+      "2021-01-28": 318
     }
   },
   {
@@ -42,19 +42,19 @@
     "url": "http://accraartscenter.com/",
     "icon": "https://favicons.githubusercontent.com/accraartscenter.com",
     "slug": "accra-art-center",
-    "status": "down",
-    "uptime": "51.84%",
-    "uptimeDay": "51.84%",
-    "uptimeWeek": "51.84%",
-    "uptimeMonth": "51.84%",
-    "uptimeYear": "51.84%",
-    "time": 312,
-    "timeDay": 312,
-    "timeWeek": 312,
-    "timeMonth": 312,
-    "timeYear": 312,
+    "status": "up",
+    "uptime": "49.16%",
+    "uptimeDay": "49.16%",
+    "uptimeWeek": "49.16%",
+    "uptimeMonth": "49.16%",
+    "uptimeYear": "49.16%",
+    "time": 293,
+    "timeDay": 293,
+    "timeWeek": 293,
+    "timeMonth": 293,
+    "timeYear": 293,
     "dailyMinutesDown": {
-      "2021-01-28": 285
+      "2021-01-28": 318
     }
   },
   {
@@ -92,7 +92,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-01-28": 591
+      "2021-01-28": 626
     }
   },
   {
@@ -154,19 +154,19 @@
     "url": "http://tigereyefoundation.org/",
     "icon": "https://favicons.githubusercontent.com/tigereyefoundation.org",
     "slug": "tiger-eye-foundation",
-    "status": "down",
-    "uptime": "99.92%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.92%",
-    "uptimeYear": "99.92%",
-    "time": 4667,
-    "timeDay": 4667,
-    "timeWeek": 4667,
-    "timeMonth": 4667,
-    "timeYear": 4667,
+    "status": "up",
+    "uptime": "94.40%",
+    "uptimeDay": "94.40%",
+    "uptimeWeek": "94.40%",
+    "uptimeMonth": "94.40%",
+    "uptimeYear": "94.40%",
+    "time": 15227,
+    "timeDay": 15227,
+    "timeWeek": 15227,
+    "timeMonth": 15227,
+    "timeYear": 15227,
     "dailyMinutesDown": {
-      "2021-01-28": 0
+      "2021-01-28": 35
     }
   },
   {
