@@ -130,7 +130,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-03-27": 64,
+      "2021-03-27": 77,
       "2021-03-26": 1440,
       "2021-03-25": 1440,
       "2021-03-24": 1440,
@@ -268,7 +268,7 @@
     "url": "http://tigereyefoundation.org/",
     "icon": "https://favicons.githubusercontent.com/tigereyefoundation.org",
     "slug": "tiger-eye-foundation",
-    "status": "up",
+    "status": "down",
     "uptime": "98.49%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
