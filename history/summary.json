@@ -130,7 +130,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-04-06": 451,
+      "2021-04-06": 469,
       "2021-04-05": 1440,
       "2021-04-04": 1440,
       "2021-04-03": 1440,
@@ -318,17 +318,17 @@
     "url": "https://www.hugedomains.com/domain_profile.cfm?d=tigereyepi&e=com",
     "icon": "https://favicons.githubusercontent.com/www.hugedomains.com",
     "slug": "tiger-eye-pi",
-    "status": "down",
+    "status": "up",
     "uptime": "99.85%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.65%",
     "uptimeYear": "99.85%",
-    "time": 418,
-    "timeDay": 185,
-    "timeWeek": 191,
-    "timeMonth": 675,
-    "timeYear": 418,
+    "time": 415,
+    "timeDay": 156,
+    "timeWeek": 183,
+    "timeMonth": 663,
+    "timeYear": 415,
     "dailyMinutesDown": {
       "2021-03-18": 151
     }
